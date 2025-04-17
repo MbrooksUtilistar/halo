@@ -924,7 +924,6 @@ light:
     chipset: WS2812
     num_leds: 11
     rgb_order: grb
-    brightness: 50
     effects:
       - pulse:
           name: "Slow Pulse"
