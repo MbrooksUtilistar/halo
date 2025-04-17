@@ -933,8 +933,8 @@ light:
           max_brightness: 50%
       - addressable_rainbow:
           name: Rainbow Effect With Custom Values
-          speed: 10
-          width: 50
+          speed: 40
+          width: 75
   - platform: monochromatic
     output: backlight
     name: "Display Backlight"
