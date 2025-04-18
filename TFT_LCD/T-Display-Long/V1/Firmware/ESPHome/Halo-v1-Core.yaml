@@ -933,9 +933,8 @@ light:
           max_brightness: 50%
       - addressable_rainbow:
           name: Rainbow Effect With Custom Values
-          speed: 40
-          width: 75
-          brightness: 25%
+          speed: 80
+          width: 25
       - random:
           name: Random Effect With Custom Values
           transition_length: 4s
