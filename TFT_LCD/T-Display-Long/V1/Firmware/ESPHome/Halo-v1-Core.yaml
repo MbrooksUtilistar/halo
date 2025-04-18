@@ -935,7 +935,7 @@ light:
           name: Rainbow Effect With Custom Values
           speed: 40
           width: 75
-          brightneess: 25%
+          brightness: 25%
       - random:
           name: Random Effect With Custom Values
           transition_length: 4s
